@@ -1,3 +1,5 @@
+import localStorage from 'nativescript-localstorage';
+
 const NSVuexPersistent = function (states) {
   return store => {
     // Init hook.
