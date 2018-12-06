@@ -12,6 +12,13 @@
     "type" : "git",
     "url" : "https://github.com/Gcuencam/ns-vuex-persistent"
   },
+  "keywords": [
+    "npm",
+    "vue",
+    "vuex",
+    "nativescript",
+    "persistent"
+  ],
   "dependencies": {
     "nativescript-localstorage": "^2.0.0"
   }
