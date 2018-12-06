@@ -8,6 +8,10 @@
   },
   "author": "Gabriel Cuenca",
   "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/Gcuencam/ns-vuex-persistent"
+  },
   "dependencies": {
     "nativescript-localstorage": "^2.0.0"
   }
