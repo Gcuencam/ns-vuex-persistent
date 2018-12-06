@@ -4,13 +4,13 @@
 ## Install
 
 ```
-npm install --save ns-vuex-persistent
+npm install --save nativescript-vuex-persistent
 ```
 
 ## Use
 
 ```javascript
-import NSVuexPersistent from 'ns-vuex-persistent';
+import NSVuexPersistent from 'nativescript-vuex-persistent';
 
 const store = new Vuex.Store({
   state: {
